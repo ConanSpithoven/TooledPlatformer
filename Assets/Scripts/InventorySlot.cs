@@ -37,9 +37,9 @@ public class InventorySlot : MonoBehaviour
                 foreach (GameObject block in blocks) {
                     if (block.TryGetComponent(out Soapable soapable)){
                         soapable.Soap();
+                        SetUsed();
                     }
                 }
-                SetUsed();
                 break;
             case "log":
                 //place the log infront of the player

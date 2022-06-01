@@ -9,5 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: c78c21aa75ba40f4da518301c27ddd0f
   - enabled: 1
+    path: Assets/Scenes/Intro_Soap.unity
+    guid: 1658a4215e41ebe4fb65ea8b34fa99f5
+  - enabled: 1
+    path: Assets/Scenes/Intro_Pot.unity
+    guid: ab3b0ec6c86824a42a67b2ece65f4914
+  - enabled: 1
+    path: Assets/Scenes/Intro_Log.unity
+    guid: f2ee124b6c7ce7c499df7c0c51f8c039
+  - enabled: 1
+    path: Assets/Scenes/Intro_Hammer.unity
+    guid: aaeb89c20851ef743b6e79f2dccdc314
+  - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: cd0a7ec015bdb4045b95caa0c0fd6d77
+  m_configObjects: {}
