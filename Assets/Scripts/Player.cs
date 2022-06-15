@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public delegate void DeadEventHandler();
 
@@ -141,6 +142,10 @@ public class Player : Character {
         if (Input.GetKeyDown(KeyCode.Alpha5))
         {
             UseItem(4);
+        }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene(0);
         }
     }
 

@@ -21,6 +21,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Intro_Hammer.unity
     guid: aaeb89c20851ef743b6e79f2dccdc314
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/Scenes/Level_1.unity
     guid: cd0a7ec015bdb4045b95caa0c0fd6d77
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 7d502c33ab56c4442ad67a3c3f465048
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: ad82304faeda47f41a7970d87abca1ec
+  - enabled: 1
+    path: Assets/Scenes/Demo_End.unity
+    guid: 8067c0f034d2fe04a94493a98026faeb
   m_configObjects: {}
